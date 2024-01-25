@@ -3,5 +3,5 @@
 - Estudante de Segurança da Informação
 - 
 <a href="https://wakatime.com/ocleitiano">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nnunes&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ocleitiano&theme=tokyonight"/>
 </a>
