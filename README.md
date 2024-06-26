@@ -1,2 +1,5 @@
-## Olá, eu sou o Cleitiano!
+### Eu sou o Cleitiano! 
 
+![Cleitiano GitHub stats](https://github-readme-stats.vercel.app/api?username=ocleitiano&show_icons=true&theme=radical)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ocleitiano)](https://github.com/anuraghazra/github-readme-stats)
