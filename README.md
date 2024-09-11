@@ -4,4 +4,4 @@
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ocleitiano)](https://github.com/ocleitiano/github-readme-stats)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/ocleitiano.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/1778341"></script>
