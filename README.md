@@ -37,6 +37,6 @@ Sou formado em Segurança da Informação e atualmente tenho foco em Pentest, vo
 
 ---
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1778341" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ocleitiano.png" alt="Your Image Badge" />
 
 </div>
